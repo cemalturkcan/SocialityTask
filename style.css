@@ -241,6 +241,7 @@ main {
     gap: 32px;
     flex-flow: row;
     flex-wrap: wrap;
+    margin-bottom: 50px;
 
 }
 
