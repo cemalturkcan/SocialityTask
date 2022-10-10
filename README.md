@@ -8,7 +8,7 @@ Installation
 https://github.com/cemalturkcan/SocialityTask.git
 ```
 
-2. Run a local server and open index.html Done! 🎉
+2.Run a local server and open index.html Done! 🎉
 
 
 
