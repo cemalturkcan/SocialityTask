@@ -6,7 +6,7 @@ Installation
 https://github.com/cemalturkcan/SocialityTask.git
 ```
 ```
-2. Open index.html Done! 🎉
+2. Run a local and open index.html Done! 🎉
 ```
 Photo
 ![image](https://user-images.githubusercontent.com/101227219/194868931-5fd51581-02cc-493c-8a23-87e09b6a3409.png)
