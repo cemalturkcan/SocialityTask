@@ -1,6 +1,7 @@
 # SocialityTask
 
 Installation
+
 1.Clone Repository
 ```
 https://github.com/cemalturkcan/SocialityTask.git
