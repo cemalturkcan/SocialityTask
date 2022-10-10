@@ -176,7 +176,6 @@ const getPosts = function (json) {
         createPostsByTime();
         let postsByTime = document.querySelectorAll(".postsByTime");
         let date =  formatMovementDate(new Date(dates[i]), optionsForH1)
-        console.log((dates[i]))
         postsByTime[i].insertAdjacentHTML("beforeend", createDate(date))
         postsByTime[i].insertAdjacentHTML("beforeend", createPostsSection())
         let posts = document.querySelectorAll(".posts");
