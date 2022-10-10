@@ -10,7 +10,10 @@ https://github.com/cemalturkcan/SocialityTask.git
 
 2.Run a local server and open index.html Done! 🎉
 
-
+Online review
+```
+https://github.com/cemalturkcan/socialityTask
+```
 
 Photo
 ![image](https://user-images.githubusercontent.com/101227219/194868931-5fd51581-02cc-493c-8a23-87e09b6a3409.png)
