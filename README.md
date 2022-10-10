@@ -13,8 +13,6 @@ Project
 
 A one-page frontend app will be developed that has a sidebar including the brand switching tab and an accordion menu and has the content area including the social media posts. 
 
-Project Assets -> Download
-
 Notes:
 
 1) Both PSD & Sketch files of the design are included in the assets folder. You can use whichever you want while developing the frontend app.
