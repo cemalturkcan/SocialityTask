@@ -6,7 +6,7 @@ Installation
 https://github.com/cemalturkcan/SocialityTask.git
 ```
 2. Open index.html Done! 🎉
-```
+
 Project
 
 A one-page frontend app will be developed that has a sidebar including the brand switching tab and an accordion menu and has the content area including the social media posts. 
