@@ -12,7 +12,7 @@ https://github.com/cemalturkcan/SocialityTask.git
 
 Online review
 
-[https://github.com/cemalturkcan/socialityTask](https://cemalturkcan.me/socialityTask/index.html)
+https://cemalturkcan.me/socialityTask/
 
 
 Photo
