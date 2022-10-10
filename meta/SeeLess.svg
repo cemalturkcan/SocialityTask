@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="1" viewBox="0 0 11 1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1d1d1d;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="SeeLess" class="cls-1" d="M241.01,178H252v1H241.01v-1Z" transform="translate(-241 -178)"/>
+</svg>

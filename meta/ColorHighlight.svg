@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="207.844" height="57" viewBox="0 0 207.844 57">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f55661;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="ColorHighlight" class="cls-1" d="M66.152,154H274v51H105.748c-1.735,0-8.638,6-8.671,6-0.053,0-7.011-6-9.2-6H66.152V154Z" transform="translate(-66.156 -154)"/>
+</svg>
